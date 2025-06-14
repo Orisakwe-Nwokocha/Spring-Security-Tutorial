@@ -1,21 +1,20 @@
 # 🔐 Spring Security Tutorial
 
-This is a simple tutorial project demonstrating how to use **Spring Security** in a Java Spring Boot application. It includes form login, role-based authorization, stateless JWT authentication, and custom filters.
+This is a simple tutorial project demonstrating how to use **Spring Security** in a Java Spring Boot application. It includes rest-api login, role-based authorization, stateless JWT authentication, and custom filters.
 
 ---
 
-## 📦 Features
+## Features
 
 - ✅ User authentication with Spring Security
 - 🔑 JWT-based stateless security
 - 👥 Role-based access control (RBAC)
 - 🛡️ Custom security filter chain
-- 🍪 Optional cookie-based token support
 - 🧪 Example endpoints with different access levels
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
