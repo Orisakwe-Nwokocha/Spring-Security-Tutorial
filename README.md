@@ -6,11 +6,11 @@ This is a simple tutorial project demonstrating how to use **Spring Security** i
 
 ## Features
 
-- ✅ User authentication with Spring Security
-- 🔑 JWT-based stateless security
-- 👥 Role-based access control (RBAC)
-- 🛡️ Custom security filter chain
-- 🧪 Example endpoints with different access levels
+- User authentication with Spring Security
+- JWT-based stateless security
+- Role-based access control (RBAC)
+- ️Custom security filter chain
+- Example endpoints with different access levels
 
 ---
 
